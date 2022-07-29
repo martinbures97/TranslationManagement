@@ -1,0 +1,14 @@
+﻿global using TranslationManagement.Application.Entities.Translator;
+global using TranslationManagement.Application.Entities.TranslationJob;
+global using TranslationManagement.Application.Common;
+global using TranslationManagement.Application.Common.Behaviours;
+global using TranslationManagement.Application.Common.Interfaces;
+global using TranslationManagement.Application.Common.Exceptions;
+global using TranslationManagement.Application.Common.Mappings;
+global using MediatR;
+global using FluentValidation;
+global using AutoMapper;
+global using Microsoft.EntityFrameworkCore;
+global using AutoMapper.QueryableExtensions;
+global using System.Reflection;
+global using Microsoft.Extensions.DependencyInjection;
