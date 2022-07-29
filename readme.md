@@ -41,3 +41,8 @@ Our tools of choice are React (CRA) + Typescript but use what you prefer
 Clone/fork to your repo and deliver as a link to your repo or share the `git-archive`. 
 Commit to master, follow usual git culture. 
 Please include a note regarding how to run.
+
+# How to run
+- Running BE is currently only possible using IDE like Visual studio or Rider in debug mode.
+- FE application can be run using classic 'npm start' command.
+
